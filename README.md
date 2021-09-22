@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning how to apply deep learning to various applications
 - ⚡ This repo is to be updated real soon
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=VrutikShah&style=flat-square&color=red)
 
